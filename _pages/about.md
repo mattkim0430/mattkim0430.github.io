@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/IMG_0353.jpeg"
 ---
 
 I'm an aspiring data scientist, experienced in Python and R programming. 
